@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "bfc6690cface5c23",
+    "type": "split",
+    "children": [
+      {
+        "id": "87d6ca49e28f023f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f76b4303f4ded8e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "321073503f489f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dinámica poblacional/Dinámica poblacional de especies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "864ecf8f1efaf128",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc376d8f4d7f8fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97e0abde0468a583",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd8c4122ba5912c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc5f95349168873e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "715cd8fd92a71e10",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa6c0b2609afc820",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13dd3190cc25d5f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dinámica poblacional/Dinámica poblacional de especies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcb2fdd61f68fc28",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dinámica poblacional/Dinámica poblacional de especies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b72fc26f5f12f63a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a3fff2e8b2657f1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dinámica poblacional/Dinámica poblacional de especies.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "97e0abde0468a583",
+  "lastOpenFiles": [
+    "Dinámica poblacional/Dinámica poblacional de especies.md",
+    "Dinámica poblacional"
+  ]
+}
